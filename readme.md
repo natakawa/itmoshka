@@ -7,3 +7,5 @@ yo, what’s up fellow coders? this is **itmo university’s official github for
 - collab with ur squad like real devs 🛠️
 - push, pull, commit, repeat 🔄
 - break stuff & fix it later 💀
+
+omg. edited.
