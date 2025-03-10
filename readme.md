@@ -1,9 +1,9 @@
-# 🚀 Welcome to My Awesome Project!
+# 📢 welcome to the itmo github gang 🎓🚀
 
-Hey there! 👋 Welcome to **My Awesome Project** – the place where magic happens! 🧙‍♂️✨
+yo, what’s up fellow coders? this is **itmo university’s official github for kids** 🧑‍💻 where we turn boring assignments into epic projects. 🔥 get ready to flex ur coding skills & become the next github legend. ✨
 
-## 🎯 About This Project
-This project is built with **passion, caffeine ☕, and a sprinkle of chaos**. It does amazing things like:
-- ✅ Solving world problems 🌍
-- ✅ Making the internet a better place 💻
-- ✅ Keeping developers happy 😄
+## 💡 what’s the vibe here?
+- learn **git & github** like a pro (no cringe, no stress 🤙)
+- collab with ur squad like real devs 🛠️
+- push, pull, commit, repeat 🔄
+- break stuff & fix it later 💀
